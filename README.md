@@ -1,6 +1,8 @@
-### 个人文章系列 (Articles)
+# 个人内容索引 (Personal Content & Curation Index)
 
-**问题解决与设计（草稿）** (Series: Problem Solving & Design) 
+## 系列文章 | Articles
+
+**问题解决与设计（草稿）** | Problem Solving & Design 
 - [（一）问题情境](http://www.jianshu.com/p/3fb039565379)
 - [（二）可行解](http://www.jianshu.com/p/334f9994a2d7)
 - [（三）开放问题](http://www.jianshu.com/p/3731017a17f4)
@@ -8,15 +10,15 @@
 - （五）解的优化与复杂度
 - （六）解的发现与重用
 
-**媒体与内容商业** (Series: Media & Content Industry)
-- [（一）：传播模型](https://www.jianshu.com/p/ee09129e4621)
+**媒体与内容商业** | Media & Content Industry
+- [（一）：传播模型](https://www.jianshu.com/p/ee09129e4621) 
 - （二）：流与流媒体
 - （三）：在线音乐商业
 - （四）：媒体的性质与认知科学
 - （五）：从复合媒体到原子化控制
 - （六）：数字化与媒体的演化
 
-**Python功能点实现** (Series: Python Feature Development)
+**Python功能点实现** | Python Feature Development
 - [多方法访问上级目录中的文件](https://www.jianshu.com/p/4e3b2ca9cfe5)
 - [函数级/代码块级计时器](https://www.jianshu.com/p/c890d5258ac9)
 - [数据热更新](https://www.jianshu.com/p/2d31f1c7ef63)
@@ -24,12 +26,12 @@
 - 增强定时热更新
 - 自重启机制
 
-**Python API工程** (Series: Python API Engineering)
+**Python API工程** | Python API Engineering
 - [使用Flask开发REST API](https://www.jianshu.com/p/bc8c3d6163d2)
 - [REST API、WSGI部署、环境与代码管理](https://www.jianshu.com/p/79a063a16704)
 - Docker部署
 
-**Leetcode Python超琐碎笔记** (Series: Grinding on Leetcode Python)
+**Leetcode Python超琐碎笔记** | Grinding on Leetcode Python
 - [001. Two Sum](https://www.jianshu.com/p/c6b330c99d77)
 - [617. Merge Two Binary Trees](https://www.jianshu.com/p/095102ca3464)
 - [709. To Lower Case](https://www.jianshu.com/p/4de0b7a573d4)
@@ -38,19 +40,29 @@
 - [938. Range Sum of BST](https://www.jianshu.com/p/76e6b9a62688)
 - [965. Univalued Binary Tree](https://www.jianshu.com/p/fcedb4635798)
 
-### 个人摄影 (Personal Photograph)
+## Learn
+
+### 知识图片策展 | Knowledge-as-Picture Curation
+
+- [Pinterest](https://www.pinterest.com/simoncos/knowledge/)
+
+## Vision
+
+### 摄影 | Photograph
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
-- [云之集](https://www.douban.com/photos/album/1648590392/)
-- 树之影
-- [山之廓](https://www.douban.com/photos/album/1659322119/)
-- 水之息
+- [云之集](https://www.douban.com/photos/album/1648590392/) | Cloud
+- 树之影 | Tree
+- [山之廓](https://www.douban.com/photos/album/1659322119/) | Mountain
+- 水之息 | Water
 
-### 图片策展 (Picture Curation)
+## Sound
 
-- [干货知识（Pinterest）](https://www.pinterest.com/simoncos/knowledge/)
+### 翻唱 | Song Cover
 
-### 音乐策展 (Music Curation)
+- [Bilibili](https://space.bilibili.com/20955632)
+
+### 音乐策展 | Music Curation
 
 **Music is Links**：啊哈！记录发现音乐之间隐藏联系的惊喜时刻
 
@@ -66,6 +78,8 @@
 
 - [陈奕迅·漫无止尽的回响](https://www.jianshu.com/p/bacb95af08b1)
 
-### 美食策展 (Foodie Curation)
+## Food
+
+### 美食策展 | Foodie Curation
 
 - [Those Snacks](https://www.douban.com/doulist/46212684/)
