@@ -40,13 +40,13 @@
 - [938. Range Sum of BST](https://www.jianshu.com/p/76e6b9a62688)
 - [965. Univalued Binary Tree](https://www.jianshu.com/p/fcedb4635798)
 
-## Learn
+## 学习 | Learn
 
 ### 知识图片策展 | Knowledge-as-Picture Curation
 
 - [Pinterest](https://www.pinterest.com/simoncos/knowledge/)
 
-## Vision
+## 视觉 | Vision
 
 ### 摄影 | Photographs
 
@@ -56,7 +56,7 @@
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Mountain
 - 水之息 | Water
 
-## Sound
+## 音乐 | Music
 
 ### 翻唱 | Song Covers
 
@@ -77,9 +77,3 @@
 **广域音乐谜题**：谜团全部解开，故事浮出水面
 
 - [陈奕迅·漫无止尽的回响](https://www.jianshu.com/p/bacb95af08b1)
-
-## Food
-
-### 美食策展 | Foodie Curation
-
-- [Those Snacks](https://www.douban.com/doulist/46212684/)
