@@ -1,5 +1,3 @@
-# 个人内容索引 (Personal Content & Curation Index)
-
 ## 系列文章 | Articles
 
 **问题解决与设计（草稿）** | Problem Solving & Design 
@@ -42,13 +40,9 @@
 
 ## 学习 | Learn
 
-### 知识图片策展 | Knowledge-as-Picture Curation
-
-- [Pinterest](https://www.pinterest.com/simoncos/knowledge/)
+- [知识图片策展 | Knowledge-as-Picture Curation](https://www.pinterest.com/simoncos/knowledge/)
 
 ## 视觉 | Vision
-
-### 摄影 | Photographs
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Cloud
