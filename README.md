@@ -1,6 +1,4 @@
-<p class="text-align:center">
-<img src="logo.png" alt="logo" title="logo" />
-</a>
+![](logo.png)
 
 ## 系列文章 | Articles
 
