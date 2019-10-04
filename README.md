@@ -49,10 +49,10 @@
 ## 视觉 | Vision
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
-- [云之集](https://www.douban.com/photos/album/1648590392/) | Cloud
-- 树之影 | Tree
-- [山之廓](https://www.douban.com/photos/album/1659322119/) | Mountain
-- 水之息 | Water
+- [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
+- 树之影 | Shadows of Tree
+- [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
+- 水之息 | Breath of Water
 
 ## 音乐 | Music
 
@@ -74,4 +74,4 @@
 
 **广域音乐谜题**：谜团全部解开，故事浮出水面
 
-- [陈奕迅·漫无止尽的回响](https://www.jianshu.com/p/bacb95af08b1)
+- [陈奕迅·漫无止尽的回响 | Lyrics Riddles of Eason Chan](https://www.jianshu.com/p/bacb95af08b1)
