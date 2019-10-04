@@ -1,4 +1,6 @@
-![](logo.png)
+<p align="center">
+  <img src=logo.png>
+</p>
 
 ## 系列文章 | Articles
 
