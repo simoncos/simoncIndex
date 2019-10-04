@@ -1,3 +1,5 @@
+![](logo.png)
+
 ## 系列文章 | Articles
 
 **问题解决与设计（草稿）** | Problem Solving & Design 
