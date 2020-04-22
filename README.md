@@ -50,15 +50,16 @@
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
-- 树之影 | Shadows of Tree
+- [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
-- 水之息 | Breath of Water
+- [水之息](https://www.douban.com/photos/album/1659322182/) | Breath of Water
 
 ## 音乐 | Music
 
 ### 翻唱 | Song Covers
 
 - [Bilibili](https://space.bilibili.com/20955632)
+- [全民K歌](https://node.kg.qq.com/personal?uid=679898872d28308c32)
 
 ### 音乐策展 | Music Curation
 
