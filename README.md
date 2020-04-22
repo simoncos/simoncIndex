@@ -42,17 +42,19 @@
 - [938. Range Sum of BST](https://www.jianshu.com/p/76e6b9a62688)
 - [965. Univalued Binary Tree](https://www.jianshu.com/p/fcedb4635798)
 
-## 学习 | Learn
+## 个人知识管理 | Personal Knowledge Management
 
+- [知识管理体系 | PKM Tools & Flows](https://www.notion.so/simoncos/PIM-8fe8397668a14bf3b0baf0a57a08e422)
 - [知识图片策展 | Knowledge-as-Picture Curation](https://www.pinterest.com/simoncos/knowledge/)
 
-## 视觉 | Vision
+## 摄影 | Photography
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
 - [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
 - [水之息](https://www.douban.com/photos/album/1659322182/) | Breath of Water
+- [杂锦](https://www.douban.com/photos/album/1872780686/) | Untitled
 
 ## 音乐 | Music
 
