@@ -2,7 +2,7 @@
   <img src=logo.png>
 </p>
 
-## 系列文章 | Articles
+## 系列文章 | Article Series
 
 **问题解决与设计（草稿）** | Problem Solving & Design 
 - [（一）问题情境](http://www.jianshu.com/p/3fb039565379) | Problem Situation
