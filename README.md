@@ -19,6 +19,14 @@
 - （五）解的优化与复杂度
 - （六）解的发现与重用
 
+**读书小结** | Book Reading Summary
+- [2015上半年](https://www.jianshu.com/p/831431a325af) | 2015A
+- [2015下半年](https://www.jianshu.com/p/b3a2233bfcb2) | 2015B
+- [2016](https://www.jianshu.com/p/80df3e957e53) | 2016
+- [2017上半年](https://www.jianshu.com/p/59e17b3c13d7) | 2017A
+- [2018](https://www.jianshu.com/p/696b8e9139b0) | 2018
+- [2019](https://www.jianshu.com/p/bb18e7f5d898) | 2019
+
 **媒体与内容商业** | Media & Content Industry
 - [（一）：传播模型](https://www.jianshu.com/p/ee09129e4621) | Communication Model
 - （二）：流与流媒体
