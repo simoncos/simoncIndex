@@ -75,7 +75,6 @@
 
 ### 翻唱 | Song Covers
 
-- [Bilibili](https://space.bilibili.com/20955632)
 - [全民K歌](https://node.kg.qq.com/personal?uid=679898872d28308c32)
 
 ### 音乐策展 | Music Curation
