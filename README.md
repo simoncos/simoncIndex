@@ -19,13 +19,14 @@
 - （五）解的优化与复杂度
 - （六）解的发现与重用
 
-**读书小结** | Book Reading Summary
-- [2015上半年](https://www.jianshu.com/p/831431a325af) | 2015A
-- [2015下半年](https://www.jianshu.com/p/b3a2233bfcb2) | 2015B
-- [2016](https://www.jianshu.com/p/80df3e957e53) | 2016
-- [2017上半年](https://www.jianshu.com/p/59e17b3c13d7) | 2017A
-- [2018](https://www.jianshu.com/p/696b8e9139b0) | 2018
-- [2019](https://www.jianshu.com/p/bb18e7f5d898) | 2019
+**书影音游小结** | Book/Movie/Music/Game Records
+- [2015上半年读书小结](https://www.jianshu.com/p/831431a325af) | 2015A Book Reading
+- [2015下半年读书小结](https://www.jianshu.com/p/b3a2233bfcb2) | 2015B Book Reading
+- [2016读书小结](https://www.jianshu.com/p/80df3e957e53) | 2016 Book Reading
+- [2017上半年读书小结](https://www.jianshu.com/p/59e17b3c13d7) | 2017A Book Reading
+- [2018读书小结](https://www.jianshu.com/p/696b8e9139b0) | 2018 Book Reading
+- [2019读书小结](https://www.jianshu.com/p/bb18e7f5d898) | 2019 Book Reading
+- [我的书影音游2021](https://www.jianshu.com/p/f68b8061dd88) | 2021
 
 **媒体与内容商业** | Media & Content Industry
 - [（一）：传播模型](https://www.jianshu.com/p/ee09129e4621) | Communication Model
@@ -59,12 +60,12 @@
 
 ## 个人知识管理 | Personal Knowledge Management
 
-- [知识管理体系 | PKM Tools & Flows](https://www.notion.so/simoncos/PIM-8fe8397668a14bf3b0baf0a57a08e422)
 - [知识图片策展 | Knowledge-as-Picture Curation](https://www.pinterest.com/simoncos/knowledge/)
 
 ## 摄影 | Photography
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
+- [我的影像回忆2021](https://www.douban.com/note/823098702/?_i=21404545FnzAdY) | My Vision Memories 2021
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
 - [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
@@ -78,6 +79,8 @@
 - [全民K歌](https://node.kg.qq.com/personal?uid=679898872d28308c32)
 
 ### 音乐策展 | Music Curation
+
+(most links are already dead due to shutdown of Xiami)
 
 **Music is Links**：啊哈！记录发现音乐之间隐藏联系的惊喜时刻
 
