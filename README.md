@@ -70,7 +70,6 @@
 - [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
 - [水之息](https://www.douban.com/photos/album/1659322182/) | Breath of Water
-- [杂锦](https://www.douban.com/photos/album/1872780686/) | Untitled
 
 ## 音乐 | Music
 
