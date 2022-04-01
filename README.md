@@ -49,7 +49,12 @@
 - [938. Range Sum of BST](https://www.jianshu.com/p/76e6b9a62688)
 - [965. Univalued Binary Tree](https://www.jianshu.com/p/fcedb4635798)
 
-**书影音游小结** | Book/Movie/Music/Game Records
+## 个人知识管理 | Personal Knowledge Management
+
+- [知识图片策展 | Knowledge-as-Picture Curation](https://www.pinterest.com/simoncos/knowledge/)
+
+## 书影音游小结 | Book/Movie/Music/Game Records
+
 - [2015上半年读书小结](https://www.jianshu.com/p/831431a325af) | 2015A Book Reading
 - [2015下半年读书小结](https://www.jianshu.com/p/b3a2233bfcb2) | 2015B Book Reading
 - [2016读书小结](https://www.jianshu.com/p/80df3e957e53) | 2016 Book Reading
@@ -57,10 +62,6 @@
 - [2018读书小结](https://www.jianshu.com/p/696b8e9139b0) | 2018 Book Reading
 - [2019读书小结](https://www.jianshu.com/p/bb18e7f5d898) | 2019 Book Reading
 - [我的书影音游2021](https://www.jianshu.com/p/f68b8061dd88) | 2021
-
-## 个人知识管理 | Personal Knowledge Management
-
-- [知识图片策展 | Knowledge-as-Picture Curation](https://www.pinterest.com/simoncos/knowledge/)
 
 ## 摄影 | Photography
 
