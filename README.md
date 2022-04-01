@@ -55,6 +55,7 @@
 
 ## 书影音游小结 | Book/Movie/Music/Game Records
 
+- [豆瓣 Douban](https://www.douban.com/people/simoncos/?_i=8788779pNeSzR6)
 - [2015上半年读书小结](https://www.jianshu.com/p/831431a325af) | 2015A Book Reading
 - [2015下半年读书小结](https://www.jianshu.com/p/b3a2233bfcb2) | 2015B Book Reading
 - [2016读书小结](https://www.jianshu.com/p/80df3e957e53) | 2016 Book Reading
