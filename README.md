@@ -12,7 +12,7 @@
 ## 系列文章 | Article Series
 
 **问题解决与设计（草稿）** | Problem Solving & Design 
-- [（一）问题情境](http://www.jianshu.com/p/3fb039565379) | Problem Situation
+- [（一）问题情境](http://www.jianshu.com/p/3fb039565379) | Problem Settings
 - [（二）可行解](http://www.jianshu.com/p/334f9994a2d7) | Feasible Solutions
 - [（三）开放问题](http://www.jianshu.com/p/3731017a17f4) | Open Problem
 - [（四）纠结与最优解](http://www.jianshu.com/p/c496311d85bb) | Indecisive: Existence of the Optimal
