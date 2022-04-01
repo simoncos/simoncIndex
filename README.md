@@ -52,6 +52,9 @@
 
 ## 个人知识管理 | Personal Knowledge Management
 
+- [Code Snippets](https://simoncos.notion.site/e7dd1bc35e534c579dc9ef604308384b?v=c4f8b6be4f764e15941409416b2abf05)
+- [Dev Tools](https://simoncos.notion.site/2efe444b8f254ee4b488ba099700efb7?v=cdf238f910ff4035884fbc1f03a7dfda)
+- [PIM Softwares](https://simoncos.notion.site/1fde407ffc6d4fc6999930374eb2edaa?v=d4022e4326274dc2b180e662f857aa92)
 - [知识图片策展 | Knowledge-as-Picture Curation](https://www.pinterest.com/simoncos/knowledge/)
 
 ## 书影音游小结 | Book/Movie/Music/Game Records
