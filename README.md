@@ -55,7 +55,7 @@
 
 ## 书影音游小结 | Book/Movie/Music/Game Records
 
-- [豆瓣 Douban](https://www.douban.com/people/simoncos/?_i=8788779pNeSzR6)
+- [豆瓣 Douban](https://www.douban.com/people/simoncos/)
 - [2015上半年读书小结](https://www.jianshu.com/p/831431a325af) | 2015A Book Reading
 - [2015下半年读书小结](https://www.jianshu.com/p/b3a2233bfcb2) | 2015B Book Reading
 - [2016读书小结](https://www.jianshu.com/p/80df3e957e53) | 2016 Book Reading
@@ -67,7 +67,7 @@
 ## 摄影 | Photography
 
 - [Instagram](https://www.instagram.com/simonc.pix/)
-- [我的影像回忆2021](https://www.douban.com/note/823098702/?_i=21404545FnzAdY) | My Vision Memories 2021
+- [我的影像回忆2021](https://www.douban.com/note/823098702/) | My Vision Memories 2021
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
 - [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
