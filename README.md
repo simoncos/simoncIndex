@@ -68,8 +68,9 @@
 - [2019读书小结](https://www.jianshu.com/p/bb18e7f5d898) | 2019 Book Reading
 - [我的书影音游2021](https://www.jianshu.com/p/f68b8061dd88) | 2021
 
-## 摄影 | Photography
+## 摄影 & 视频 | Photography & Video
 
+- [Youtbube](https://www.youtube.com/channel/UCQYDnGr_OIn5RNyPKoRI_Ww/videos)
 - [Instagram](https://www.instagram.com/simonc.pix/)
 - [我的影像回忆2021](https://www.douban.com/note/823098702/) | My Vision Memories 2021
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
