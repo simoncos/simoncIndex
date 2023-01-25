@@ -75,10 +75,7 @@
 - [Youtbube](https://www.youtube.com/channel/UCQYDnGr_OIn5RNyPKoRI_Ww/videos)
 - [BiliBili](https://space.bilibili.com/5089038)
 - [Instagram](https://www.instagram.com/simonc.pix/)
-- [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
-- [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
-- [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
-- [水之息](https://www.douban.com/photos/album/1659322182/) | Breath of Water
+- [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud，[木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood，[山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain，[水之息](https://www.douban.com/photos/album/1659322182/) | Breath of Water
 - [我的影像回忆2021](https://www.douban.com/note/823098702/) | My Vision Memories 2021
 - [我的影像回忆2022](https://www.douban.com/note/843751980/) | My Vision Memories 2022
 
