@@ -67,16 +67,19 @@
 - [2018读书小结](https://www.jianshu.com/p/696b8e9139b0) | 2018 Book Reading
 - [2019读书小结](https://www.jianshu.com/p/bb18e7f5d898) | 2019 Book Reading
 - [我的书影音游2021](https://www.jianshu.com/p/f68b8061dd88) | 2021
+- [我的书影音游2022](https://www.douban.com/note/844065783/) | 2022
+
 
 ## 摄影 & 视频 | Photography & Video
 
 - [Youtbube](https://www.youtube.com/channel/UCQYDnGr_OIn5RNyPKoRI_Ww/videos)
 - [Instagram](https://www.instagram.com/simonc.pix/)
-- [我的影像回忆2021](https://www.douban.com/note/823098702/) | My Vision Memories 2021
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
 - [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
 - [山之廓](https://www.douban.com/photos/album/1659322119/) | Lines of Mountain
 - [水之息](https://www.douban.com/photos/album/1659322182/) | Breath of Water
+- [我的影像回忆2021](https://www.douban.com/note/823098702/) | My Vision Memories 2021
+- [我的影像回忆2022](https://www.douban.com/note/843751980/) | My Vision Memories 2022
 
 ## 音乐 | Music
 
