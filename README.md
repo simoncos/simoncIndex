@@ -73,6 +73,7 @@
 ## 摄影 & 视频 | Photography & Video
 
 - [Youtbube](https://www.youtube.com/channel/UCQYDnGr_OIn5RNyPKoRI_Ww/videos)
+- [BiliBili](https://space.bilibili.com/5089038)
 - [Instagram](https://www.instagram.com/simonc.pix/)
 - [云之集](https://www.douban.com/photos/album/1648590392/) | Gathering of Cloud
 - [木之影](https://www.douban.com/photos/album/1648637583/) | Shadows of Wood
@@ -85,6 +86,7 @@
 
 ### 翻唱 | Song Covers
 
+- [BiliBili](https://space.bilibili.com/5089038)
 - [全民K歌](https://node.kg.qq.com/personal?uid=679898872d28308c32)
 
 ### 音乐策展 | Music Curation
