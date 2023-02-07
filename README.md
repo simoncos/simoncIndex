@@ -10,6 +10,8 @@
   - [翻唱 | Song Covers](#翻唱--song-covers)
   - [音乐策展 | Music Curation](#音乐策展--music-curation)
 
+Github Source:  https://github.com/simoncos/simoncIndex 
+
 ## 系列文章 | Article Series
 
 **问题解决与设计（草稿）** | Problem Solving & Design 
