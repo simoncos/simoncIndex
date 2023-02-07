@@ -90,18 +90,6 @@ Github Source:  https://github.com/simoncos/simoncIndex
 
 ### 音乐策展 | Music Curation
 
-(most links are already dead due to shutdown of Xiami)
-
-**Music is Links**：啊哈！记录发现音乐之间隐藏联系的惊喜时刻
-
-- [Music is Links 01](https://www.xiami.com/collect/364522874)
-- [Music is Links 02](https://www.xiami.com/collect/367019794)
-- [Music is Links 03](https://www.xiami.com/collect/408966095)
-
-**BGM**：能不由自主在脑海中响起的音乐
-
-- [BGM in Dreams](https://www.xiami.com/collect/359097151) 
-
 **广域音乐谜题**：谜团全部解开，故事浮出水面
 
 - [陈奕迅·漫无止尽的回响 | Lyrics Riddles of Eason Chan](https://www.jianshu.com/p/bacb95af08b1)
